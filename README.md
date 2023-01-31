@@ -11,4 +11,4 @@ Four cases of etaT/w(T,mub)
 
 For further details on transition line and viscosity calculations see paper at https://arxiv.org/abs/2103.02090
 
-Please cite https://arxiv.org/abs/2103.02090 if you use this package for scientific work.
+Please cite https://arxiv.org/abs/2103.02090 if you use this package for scientific work
