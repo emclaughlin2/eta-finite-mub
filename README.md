@@ -1,5 +1,5 @@
 # etaT-w-at-finite-mub
-Tables of T and mub dependent shear viscosity to enthalpy density ratios for use in relativistic viscous hydrodynamic codes simulating HIC at finite baryon density
+Tables of T and mub dependent shear viscosity to enthalpy density (etaT/w) ratios for use in relativistic viscous hydrodynamic codes simulating HIC at finite baryon density
 
 Tables run across (T,mub). T range [50,800] MeV. mub range [0,~800] MeV (mub range [0,700] MeV for CP BES case)
 
